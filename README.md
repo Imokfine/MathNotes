@@ -9,3 +9,6 @@
 ## 线性代数  
 ## 概率论与数理统计  
 ## 数值分析
+* 偏微分方程的数值解
+  * 椭圆型方程
+    * [Finite difference method 有限差分方法](https://zhuanlan.zhihu.com/p/411798670)
